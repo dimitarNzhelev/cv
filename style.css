@@ -1,0 +1,24 @@
+body {
+        background-color: #fdeedc;
+        font-family: Sans-serif;
+      }
+hr {
+        border-top: 10px dotted #dbd0c0;
+        border-bottom: none;
+        border-right: none;
+        border-left: none;
+        background-color: #fdeedc;
+        width: 5%;
+      }
+
+h1 {
+    color: #F1A661;
+}
+
+h3 {
+    color: #F1A661;
+}
+
+.profile_image{
+    border-radius: 100%;
+}
